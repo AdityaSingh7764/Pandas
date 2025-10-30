@@ -65,6 +65,3 @@ Each notebook focuses on a specific topic and includes examples, explanations, a
 - Pandas   
 - NumPy  
 - Jupyter Notebook
-- Pandas 🐼  
-- NumPy  
-- Jupyter Notebook 
