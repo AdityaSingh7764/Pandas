@@ -1,21 +1,70 @@
-# Pandas
-Here I showcase my files that I created when I was learning Pandas.
+# Pandas 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adityasingh02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasingh776433@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaSingh7764&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaSingh7764&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh7764&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Welcome to my **Pandas Learning Repository**
+This repository contains all my practice notebooks, notes, and exercises as I learned **Pandas** the most powerful and flexible data analysis and manipulation library in Python.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaSingh7764&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## About the Project
 
+This project documents my entire journey of mastering Pandas, from the basics of `Series` and `DataFrame` objects to advanced data manipulation techniques.  
+Each notebook focuses on a specific topic and includes examples, explanations, and hands-on exercises.
 
+---
 
+## Learning Notebooks Overview
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+1. **`15_Pandas_Series.ipynb`** – Introduction to Pandas Series  
+   - Creating Series from lists, arrays, and dictionaries  
+   - Indexing, slicing, and data selection  
+   - Performing arithmetic and vectorized operations  
+   - Handling missing data in Series  
+
+2. **`16_Pandas_Dataframe.ipynb`** – Working with DataFrames  
+   - Creating and exploring DataFrames  
+   - Adding, removing, and renaming columns  
+   - Sorting and filtering data  
+   - Working with different data types  
+
+3. **`17_DataFrame_Methods.ipynb`** – Common DataFrame Methods  
+   - Using built-in DataFrame functions  
+   - Descriptive statistics and aggregation  
+   - Data cleaning and transformation  
+   - Applying custom functions with `apply()` and `lambda`  
+
+4. **`18_GroupBy_Object.ipynb`** – Grouping and Aggregation  
+   - Understanding the `groupby()` function  
+   - Aggregating, filtering, and transforming data  
+   - Multi-level grouping and applying custom aggregations  
+
+5. **`19_Merging_Joining.ipynb`** – Combining DataFrames  
+   - `merge()`, `join()`, and `concat()` operations  
+   - Handling overlapping columns and indexes  
+   - Understanding different types of joins (inner, outer, etc.)  
+
+6. **`20_MultiIndex_Series_DataFrames.ipynb`** – Multi-Indexing  
+   - Creating hierarchical indexes  
+   - Selecting and slicing data with multiple index levels  
+   - Performing operations on multi-indexed data  
+
+7. **`21_Pandas_Strings.ipynb`** – String Operations in Pandas  
+   - String handling with the `.str` accessor  
+   - Cleaning, transforming, and extracting text data  
+   - Regular expression (regex) operations  
+
+8. **`22_Date_Time_Pandas.ipynb`** – Date and Time Functionality  
+   - Working with datetime objects and `to_datetime()`  
+   - Time-based indexing, resampling, and frequency conversion  
+   - Extracting time components and handling time zones  
+
+---
+
+## Tools & Libraries Used
+
+- Python 
+- Pandas   
+- NumPy  
+- Jupyter Notebook
+- Pandas 🐼  
+- NumPy  
+- Jupyter Notebook 
